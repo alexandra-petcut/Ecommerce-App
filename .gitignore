@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Confidential
+backend/src/main/resources/application.properties

@@ -1,0 +1,8 @@
+  spring.application.name=ecommerce_app
+  spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce
+  spring.datasource.username=your_username
+  spring.datasource.password=your_password
+  spring.datasource.driver-class-name=org.postgresql.Driver
+
+  app.jwt.secret=a-long-random-sequence-of-characters
+  app.jwt.expiration-ms=86400000
